@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /useable_codeList/
+Disallow: /myadmin/
+Disallow: /adm/index.php
+Disallow: /adm/manage/
+Disallow: /member/

@@ -1,0 +1,2 @@
+Host_ip : 192.168.56.55
+domain  : mvc_pattern.choiguevara88.com

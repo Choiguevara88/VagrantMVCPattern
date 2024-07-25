@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www":{"guestpath":"/var/www","hostpath":"/Users/choejaewon/Documents/VagrantProject/20220110/src","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/choejaewon/Documents/VagrantProject/20220110","disabled":false,"__vagrantfile":true}}}
